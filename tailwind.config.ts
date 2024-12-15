@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        accent: "#98e8cd",
+      },
+      screens: {
+        xs: "530px",
       },
     },
   },
